@@ -1,6 +1,6 @@
 # 955565
 
-<img width="237" height="236" alt="image" src="https://github.com/user-attachments/assets/c521638a-69f7-4ae4-873b-fdd178604341" />
+<img width="371" height="368" alt="image" src="https://github.com/user-attachments/assets/30bf12be-62bd-44aa-99f6-58f13e864779" />
 
 
 Battery LiPo 5000mAh 3.7V
